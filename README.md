@@ -2,4 +2,4 @@
 ## For this application, websocket is used with socket.io
 css style has been referred to udemy course node.js
 
-_[link](https://kimin-weather-app.herokuapp.com/)_
+_[WhosApp link](https://kimin-weather-app.herokuapp.com/)_
